@@ -1,0 +1,19 @@
+{
+  "name": "jason-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "methods": "^1.1.2",
+    "path-to-regexp": "^2.1.0"
+  }
+}
